@@ -1,6 +1,5 @@
-# Smart-Canteen
-This Smart Canteen System is a sophisticated web-based application developed 
-using ASP.NET and C#.
+# Smart-Canteen-System
+
 
 ## Problem Statement :
 
