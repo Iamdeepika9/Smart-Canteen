@@ -2,7 +2,7 @@
 This Smart Canteen System is a sophisticated web-based application developed 
 using ASP.NET and C#.
 
-##Problem Statement :
+## Problem Statement :
 
 The college canteen currently faces significant challenges in managing the 
 increasing number of customers during peak hours, which often leads to long 
@@ -15,7 +15,7 @@ items running out of stock, leading to disappointed customers who are unable to
 get their preferred choices. These issues collectively create a negative impact on 
 customer satisfaction and can deter potential repeat business.
 
-##Overview :
+## Overview :
 
 The Smart Canteen System is a comprehensive solution designed to revolutionize 
 the way food orders are placed, processed, and managed at the college canteen. 
@@ -30,28 +30,28 @@ methods. The system aims to reduce waiting time by enabling customers to pre
 order their food from any location on the college campus, allowing for a more 
 streamlined and organized process during peak hours.
 
-##Goals :
+## Goals :
 
-1.Reduce Waiting Time
-2.Improve Efficiency
-3.Enhance Accuracy
-4.Real-time Inventory Management
-5.User-Friendly Interface
+1. Reduce Waiting Time
+2. Improve Efficiency
+3. Enhance Accuracy
+4. Real-time Inventory Management
+5. User-Friendly Interface
 
-##Specifications :
+## Specifications :
 
-1.User Registration and Authentication
-2.Menu Management
-3.Order Placement
+1. User Registration and Authentication
+2. Menu Management
+3. Order Placement
 
-##Output :
+## Output :
 
-![Op2](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/2cea7b39-01f1-4e1d-a5c8-5170310ff85a)
 <img width="382" alt="Op1" src="https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/016d7e4e-ec41-4161-8a3a-eea18b5b724a">
-![Op4](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/1978ba55-0867-485b-b6af-7f5ea8cf7123)
+![Op2](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/2cea7b39-01f1-4e1d-a5c8-5170310ff85a)
 ![Op3](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/8fed640a-7d98-416d-987f-fb8597b6bf85)
+![Op4](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/1978ba55-0867-485b-b6af-7f5ea8cf7123)
 
-##Conclusion : 
+## Conclusion : 
 
 In conclusion, the Smart Canteen System developed using ASP.NET and C# is a 
 transformative solution designed to revolutionize the operations of the college 
