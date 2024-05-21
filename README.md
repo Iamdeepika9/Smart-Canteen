@@ -46,10 +46,13 @@ streamlined and organized process during peak hours.
 
 ## Output :
 
-<img width="382" alt="Op1" src="https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/016d7e4e-ec41-4161-8a3a-eea18b5b724a">
-![Op2](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/2cea7b39-01f1-4e1d-a5c8-5170310ff85a)
-![Op3](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/8fed640a-7d98-416d-987f-fb8597b6bf85)
-![Op4](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/1978ba55-0867-485b-b6af-7f5ea8cf7123)
+<img width="382" alt="Op1" src="https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/08e4c00e-f0a0-4488-88be-f102dc20a7b2">
+
+![Op2](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/e5c90ac6-9a9a-4414-ad26-e66a0494f4a5)
+
+![Op3](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/477b4821-103f-4f33-8684-97931b731f19)
+
+![Op4](https://github.com/Iamdeepika9/Smart-Canteen/assets/96690780/c7e2ab37-4b2f-4550-af66-6152e90b131a)
 
 ## Conclusion : 
 
