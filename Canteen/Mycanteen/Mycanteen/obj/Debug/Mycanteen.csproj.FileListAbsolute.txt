@@ -1,0 +1,12 @@
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\bin\Debug\Mycanteen.exe.config
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\bin\Debug\Mycanteen.exe
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\bin\Debug\Mycanteen.pdb
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\obj\Debug\Mycanteen.csproj.AssemblyReference.cache
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\obj\Debug\Mycanteen.csproj.SuggestedBindingRedirects.cache
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\obj\Debug\Mycanteen.Dashboard.resources
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\obj\Debug\Mycanteen.Form1.resources
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\obj\Debug\Mycanteen.Properties.Resources.resources
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\obj\Debug\Mycanteen.csproj.GenerateResource.cache
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\obj\Debug\Mycanteen.csproj.CoreCompileInputs.cache
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\obj\Debug\Mycanteen.exe
+C:\Users\lpras\Canteen\Mycanteen\Mycanteen\obj\Debug\Mycanteen.pdb
